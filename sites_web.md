@@ -147,3 +147,10 @@ CTRL + s
 | --- |
 
 [Test CSS (débutant)](https://www.alsacreations.com/quiz/lire/5-CSSd-butant)
+
+[Flexbox](http://flexboxfroggy.com/)
+
+[Jeu sélecteurs CSS](https://flukeout.github.io/)
+
+[MDN - site de référence](https://developer.mozilla.org/fr/Apprendre/Concevoir_page_web)
+
